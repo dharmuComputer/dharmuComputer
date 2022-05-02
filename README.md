@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dharmuComputer
-- 👀 I’m interested in ... Flutter Development
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ...Flutter Projects
+- 👀 I’m interested in ... Cyber Security
+- 🌱 I’m currently learning ... Bug Bounty
+- 💞️ I’m looking to collaborate on ...Ethical Hacking
 - 📫 How to reach me ... dharmu.computer@yahoo.com
 
 <!---
